@@ -33,7 +33,7 @@ Our team came up with "Bin Detective" after noticing a significant gap in waste 
 
 - Mobile Development: Kotlin
 - Backend Services: Express.js with Firebase
-- Machine Learning: TensorFlow L
+- Machine Learning: TensorFlow, Keras
 - Cloud Infrastructure: Google Cloud Run and Firebase Storage
 
 ### Architecture Design
