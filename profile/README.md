@@ -36,6 +36,7 @@ Our team came up with "Bin Detective" after noticing a significant gap in waste 
 - Machine Learning: TensorFlow, Keras
 - Cloud Infrastructure: Google Cloud Run and Firebase Storage
 
-### Architecture Design
-![Screenshot 2024-12-10 191104](https://github.com/user-attachments/assets/c640fbba-8225-4ef8-954b-90dc6fc6f430)
+### Our App's Cloud Infrastructure Architecture
+![image](https://github.com/user-attachments/assets/200252e1-af43-43c1-bdd7-3577603df5f7)
+
 
